@@ -10,9 +10,6 @@ import android.widget.Button;
     public class MainActivity extends AppCompatActivity {
 
         Button mRegisterBtn,mLoginBtn;
-        //1.merrne NOX emulator se qeky jau kill laptopin , edhe te xml kto dizajni provone me bo me relativelayout se qashtu osht ma response
-        //u be a je tu e provu a met prit a jo, jo del soeke j besoj qe bon haha qokay, se ili u hi mu pastru e spo di qysh ja ka lon ajo emoakial edhe pass
-        // okay pra qe ka najsen tregomni flm shume <3 hahah nihem
 
         @Override
         protected void onCreate(Bundle savedInstanceState) {
