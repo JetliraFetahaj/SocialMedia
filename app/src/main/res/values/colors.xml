@@ -9,4 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="colorBlack">#000</color>
     <color name="colorWhite">#fff</color>
+    <color name="appcolor">#05a78f</color>
+    <color name="btncolor">#0580a7</color>
+    <color name="cover">#05d8a7</color>
+
 </resources>
